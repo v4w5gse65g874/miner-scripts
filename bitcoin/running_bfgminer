@@ -2,4 +2,4 @@ clone https://github.com/luke-jr/bfgminer, run setup for *nix, then:
 
 sudo /home/krufe/repos/bfgminer/bfgminer -o http://api.bitcoin.cz:8332 -u eryw5qarfaewe.worker1 -p zUwUzhxP -o http://us1.eclipsemc.com:8337 -u 45hye5uw4tsfgsd_bfl -p a45hs5euw7eujse4e5345635yhs -o http://us2.eclipsemc.com:8337 -u 45hye5uw4tsfgsd_bfl -p a45hs5euw7eujse4e5345635yhs -o http://us3.eclipsemc.com:8337 -u 45hye5uw4tsfgsd_bfl -p a45hs5euw7eujse4e5345635yhs
 
-Ctrl+a :sessionname miner
+Ctrl+c a :sessionname miner
